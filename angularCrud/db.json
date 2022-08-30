@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "luis",
+      "category": "Vegetables",
+      "freshness": "second Hand",
+      "price": 300,
+      "comment": "Nuevo1",
+      "date": "2022-08-25T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "manuel",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "nuevo 3",
+      "date": "2022-08-27T05:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
